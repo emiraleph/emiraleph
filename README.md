@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark#gh-dark-mode-only)]()  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark#gh-dark-mode-only)]()  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark)
 
 
 
