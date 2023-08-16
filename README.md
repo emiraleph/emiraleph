@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark)]()  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark" height="150" alt="languages graph"  />
+</div>
 
 
 
