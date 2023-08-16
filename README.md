@@ -9,7 +9,7 @@
 
 <img align="right" height="150" src="https://github.com/emiraleph/emiraleph/blob/main/Images/cute_25%25_Small.gif"  />
 
-<div align="left">
+<div align="left" style="margin-left: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
