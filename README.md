@@ -12,19 +12,13 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/java.png" height="32" alt="javascript logo"  />
-  <img width="0" />
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/cpp.png" height="32" alt="typescript logo"  />
-  <img width="0" />
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/java_script.png" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/html_5.png" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/cpp.svg" height="36" alt="typescript logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java_script.svg" height="36" alt="react logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/html_5.svg" height="36" alt="html5 logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/css_3.svg" height="35" alt="css3 logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/python.svg" height="35" alt="python logo"  />  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/c%23.svg" height="35" alt="csharp logo"  />
 </div>
 
 
