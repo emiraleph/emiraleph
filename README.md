@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Im Emir! (˶˃ᆺ˂˶)
 
 
 <div align="center">
