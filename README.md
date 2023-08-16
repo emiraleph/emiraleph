@@ -9,20 +9,22 @@
 
 <img align="right" height="150" src="https://github.com/emiraleph/emiraleph/blob/main/Images/cute_25%25_Small.gif"  />
 
-<div align="center" style="margin-left: 1000px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/java.png" height="32" alt="javascript logo"  />
+  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/cpp.png" height="32" alt="typescript logo"  />
+  <img width="0" />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/java_script.png" height="32" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages/html_5.png" height="32" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
 </div>
 
 
