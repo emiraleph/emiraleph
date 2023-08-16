@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FArYE6kSTs5zdm%2Fgiphy.gif&f=1&nofb=1&ipt=fb64ec66dcb11e1f4f6c8ef9b9954d29c3e5b5f7f9c9c0b5adec152ffb764b84&ipo=images"  />
+<img align="right" height="150" src="https://github.com/emiraleph/emiraleph/blob/main/Images/cute_25%25_Small.gif"  />
 
 <!--
 **emiraleph/emiraleph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
