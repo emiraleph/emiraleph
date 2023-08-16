@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dracula)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dracula)]()  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 <!--
 **emiraleph/emiraleph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
