@@ -57,7 +57,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <div align="left">
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/c_1.svg"            height="36" alt="C"/> </a>
-  <a href="https://www.haskell.org/">                                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/haskell_2.svg"      height="36" alt="Haskell"/> </a>
+  <a href="https://www.haskell.org/">                                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/haskell.svg"      height="36" alt="Haskell"/> </a>
   <a href="https://julialang.org/">                                   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/julia.svg"          height="36" alt="Julia"/> </a>
   <a href="https://www.r-project.org/">                               <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/r.svg"              height="36" alt="R"/> </a>
   <a href="https://www.rust-lang.org/">                               <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/rust.svg"           height="35" alt="Rust"/> </a>
