@@ -1,12 +1,13 @@
 <h1> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
-<h3 align="left">Socialmedia</h3>
-<h4 align="left">Redes sociales</h4>
-<div align="left">
+<h3 align="center">Socialmedia</h3>
+<h4 align="center">Redes sociales</h4>
+<div align="center">
 
 <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
 <a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="javascript logo"/> </a>
 <a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
+<a href="https://https://linktr.ee/emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/linktree.svg"  height="36" alt="javascript logo"/> </a>
  
 </div>
 
