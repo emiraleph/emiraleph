@@ -73,15 +73,15 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <h4 align="left">Estas son algunas de las herramientas donde programo o hago cosas</h4>
 <div align="left">
 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"            height="36" alt=""/>
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/git.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/gitlab.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/github.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio_code.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/intelliJ_IDEA.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/vim.svg"            height="36" alt=""/> 
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/virtual_box.svg"            height="36" alt=""/> 
+  <a href="https://www.arduino.cc/">             <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"                         height="36" alt=""/> </a>
+  <a href="https://git-scm.com/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/git.svg"                             height="36" alt=""/> </a>
+  <a href="https://about.gitlab.com/">           <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/gitlab.svg"                          height="36" alt=""/> </a>
+  <a href="https://github.com/">                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/github.svg"                          height="36" alt=""/> </a>
+  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio.svg"                 height="36" alt=""/> </a>
+  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio_code.svg"            height="36" alt=""/> </a>
+  <a href="https://www.jetbrains.com/idea/">     <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/intelliJ_IDEA.svg"                   height="36" alt=""/> </a>
+  <a href="https://www.vim.org/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/vim.svg"                             height="36" alt=""/> </a>
+  <a href="https://www.virtualbox.org/">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/virtual_box.svg"                     height="36" alt=""/> </a>
 
 </div>
 <h2 align="left"> </h2>
