@@ -4,10 +4,10 @@
 <h4 align="center">Redes sociales</h4>
 <div align="center">
 
-<a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
-<a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="javascript logo"/> </a>
-<a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
-<a href="https://https://linktr.ee/emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/linktree.svg"  height="36" alt="javascript logo"/> </a>
+<a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="Youtube"/> </a>
+<a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="X | Twitter"/> </a>
+<a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="Reddit"/> </a>
+<a href="https://https://linktr.ee/emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/linktree.svg"  height="36" alt="Linktree"/> </a>
  
 </div>
 
@@ -73,15 +73,15 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <h4 align="left">Estas son algunas de las herramientas donde programo o hago cosas</h4>
 <div align="left">
 
-  <a href="https://www.arduino.cc/">             <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"                         height="36" alt=""/> </a>
-  <a href="https://git-scm.com/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/git.svg"                             height="36" alt=""/> </a>
-  <a href="https://about.gitlab.com/">           <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/gitlab.svg"                          height="36" alt=""/> </a>
-  <a href="https://github.com/">                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/github.svg"                          height="36" alt=""/> </a>
-  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio.svg"                 height="36" alt=""/> </a>
-  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio_code.svg"            height="36" alt=""/> </a>
-  <a href="https://www.jetbrains.com/idea/">     <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/intelliJ_IDEA.svg"                   height="36" alt=""/> </a>
-  <a href="https://www.vim.org/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/vim.svg"                             height="36" alt=""/> </a>
-  <a href="https://www.virtualbox.org/">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/virtual_box.svg"                     height="36" alt=""/> </a>
+  <a href="https://www.arduino.cc/">             <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"                         height="36" alt="Arduino"/> </a>
+  <a href="https://git-scm.com/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/git.svg"                             height="36" alt="Git"/> </a>
+  <a href="https://about.gitlab.com/">           <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/gitlab.svg"                          height="36" alt="Gitlab"/> </a>
+  <a href="https://github.com/">                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/github.svg"                          height="36" alt="Github"/> </a>
+  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio.svg"                 height="36" alt="Visual Studio"/> </a>
+  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio_code.svg"            height="36" alt="Visual Studio Code"/> </a>
+  <a href="https://www.jetbrains.com/idea/">     <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/intelliJ_IDEA.svg"                   height="36" alt="IntelliJ-IDEA"/> </a>
+  <a href="https://www.vim.org/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/vim.svg"                             height="36" alt="VIM"/> </a>
+  <a href="https://www.virtualbox.org/">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/virtual_box.svg"                     height="36" alt="Oracle Virtual Box"/> </a>
 
 </div>
 <h2 align="left"> </h2>
@@ -92,10 +92,10 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <h4 align="left">Sistemas Operativos</h4>
 <div align="left">
 
- <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"   height="36" alt="javascript logo"/> </a>
- <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/raspberry.svg"   height="36" alt="javascript logo"/> </a>
- <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/windows10.svg"   height="36" alt="javascript logo"/> </a>
- <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/kalilinux.svg"   height="36" alt="javascript logo"/> </a>
+ <a href="https://archlinux.org/">                    <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"    height="36" alt="ArchLinux"/> </a>
+ <a href="https://www.raspberrypi.org/">              <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/raspberry.svg"      height="36" alt="jRaspberry"/> </a>
+ <a href="https://www.microsoft.com/en-us/windows">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/windows10.svg"      height="36" alt="Windows10"/> </a>
+ <a href="https://www.kali.org/">                     <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/kalilinux.svg"      height="36" alt="KaliLinux"/> </a>
   
 </div>
 <h2 align="left"> </h2>
