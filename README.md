@@ -17,7 +17,7 @@
 <h2 align="left"> </h2>
 <div align="left">
 
-<a href="youtube.com">
+<a href="https://www.youtube.com/">
   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/>
 </a>
 
