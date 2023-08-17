@@ -1,4 +1,4 @@
-<h1> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
+<h1 align="center"> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
 <h3 align="center">Socialmedia</h3>
 <h4 align="center">Redes sociales</h4>
