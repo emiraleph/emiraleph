@@ -2,8 +2,6 @@
 
 <h3 align="left">Socialmedia</h3>
 <h4 align="left">Redes sociales</h4>
-
-
 <div align="left">
 
 <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
@@ -12,10 +10,13 @@
  
 </div>
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.
 
 Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="left"> </h2>
 
@@ -26,14 +27,14 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 
 <h2 align="left"> </h2>
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <img align="right" height="150" src="https://github.com/emiraleph/emiraleph/blob/main/Images/cute_25%25_Small.gif"  />
 
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="left">These are my preferred languages and the ones I use the most</h3>
 <h4 align="left">Estos son mis lenguajes favoritos y que más uso</h4>
-
 <div align="left">
 
   <a href="https://www.java.com/en/">                         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg"            height="36" alt="Java"/> </a>
@@ -50,10 +51,9 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 
 
 <!-- <a href="https://www.youtube.com/">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/> </a> -->
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3 align="left">These are some of the tools where I program or create things</h3>
 <h4 align="left">Estas son algunas de las herramientas donde programo o hago cosas</h4>
-
 <div align="left">
 
   <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"            height="36" alt=""/>
@@ -69,12 +69,10 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 </div>
 <h2 align="left"> </h2>
 
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="left">Operative Systems</h3>
 <h4 align="left">Sistemas Operativos</h4>
-
-
 <div align="left">
 
  <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"   height="36" alt="javascript logo"/> </a>
