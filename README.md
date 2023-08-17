@@ -17,11 +17,7 @@
 <h2 align="left"> </h2>
 <div align="left">
 
-<a href="https://www.youtube.com/">
-  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/>
-</a>
-
-  
+  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo" onclick="window.location.href = 'https://www.youtube.com/';" style="cursor: pointer;" />
   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/cpp.svg"             height="36" alt="typescript logo"/>    <img width="0" />
   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java_script.svg"     height="36" alt="react logo"/>         <img width="0" />
   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/html_5.svg"          height="36" alt="html5 logo"/>         <img width="0" />
