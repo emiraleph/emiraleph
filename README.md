@@ -41,7 +41,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
   <a href="https://www.java.com/en/">                         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg"            height="36" alt="Java"/> </a>
   <a href="https://code.visualstudio.com/docs/languages/cpp"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/cpp.svg"             height="36" alt="C++"/> </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java_script.svg"     height="36" alt="Java Script"/> </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5">              <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/html_5.svg"          height="36" alt="HTML 5"/> </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">              <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/html_5.svg"          height="35" alt="HTML 5"/> </a>
   <a href="https://en.wikipedia.org/wiki/CSS">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/css_3.svg"           height="35" alt="CSS 3"/> </a>
   <a href="https://www.python.org/">                          <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/python.svg"          height="35" alt="Python"/> </a>
   <a href="https://www.mathworks.com">                        <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/mathlab.svg"         height="35" alt="MAthLab"/> </a>
