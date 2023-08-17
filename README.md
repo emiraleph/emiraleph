@@ -11,6 +11,12 @@
 <a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
  
 </div>
+
+I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.
+
+Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.
+
+
 <h2 align="left"> </h2>
 
 <div align="center">
