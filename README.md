@@ -49,6 +49,22 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <h2 align="left"> </h2>
 
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align="left">I would like to learn or improve in these languages</h3>
+<h4 align="left">Me gustaria aprender o mejorar en estos lenguajes</h4>
+<div align="left">
+
+  <a href="https://www.java.com/en/">                         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/c_1.svg"            height="36" alt="Java"/> </a>
+  <a href="https://code.visualstudio.com/docs/languages/cpp"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/haskell.svg"             height="36" alt="C++"/> </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/julia.svg"     height="36" alt="Java Script"/> </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">              <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/r.svg"          height="36" alt="HTML 5"/> </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/rust.svg"           height="35" alt="CSS 3"/> </a>
+  
+</div>
+<h2 align="left"> </h2>
+
+
 
 <!-- <a href="https://www.youtube.com/">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/> </a> -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -78,6 +94,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
  <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"   height="36" alt="javascript logo"/> </a>
  <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/raspberry.svg"   height="36" alt="javascript logo"/> </a>
  <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/windows10.svg"   height="36" alt="javascript logo"/> </a>
+ <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/kalilinux.svg"   height="36" alt="javascript logo"/> </a>
   
 </div>
 <h2 align="left"> </h2>
