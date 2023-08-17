@@ -1,5 +1,17 @@
 <h1> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
+<h3 align="left">Socialmedia</h3>
+<h4 align="left">Redes sociales</h4>
+
+
+<div align="left">
+
+<a href="https://www.youtube.com/@emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
+<a href="https://www.reddit.com/u/emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="javascript logo"/> </a>
+<a href="https://twitter.com/emiraleph">       <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
+  
+</div>
+<h2 align="left"> </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark" height="200" alt="stats graph"    />
