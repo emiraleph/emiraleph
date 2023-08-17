@@ -6,10 +6,10 @@
 
 <div align="left">
 
-<a href="https://www.youtube.com/@emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
-<a href="https://www.reddit.com/u/emiraleph">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="javascript logo"/> </a>
-<a href="https://twitter.com/emiraleph">       <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
-  
+<a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="javascript logo"/> </a>
+<a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="javascript logo"/> </a>
+<a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="javascript logo"/> </a>
+ 
 </div>
 <h2 align="left"> </h2>
 
