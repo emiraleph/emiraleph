@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
 <h3 align="center">Socialmedia</h3>
-<h4 align="center">Redes sociales</h4>
+<h4 align="center"> <i> Redes sociales </i> </h4>
 <div align="center">
 
 <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="Youtube"/> </a>
@@ -13,9 +13,9 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.
+<h4 align="left"> I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way. </h4>
 
-Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.
+<h4 align="left"> <i> Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino. </i> </h4>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -35,7 +35,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="left">These are my preferred languages and the ones I use the most</h3>
-<h4 align="left">Estos son mis lenguajes favoritos y que más uso</h4>
+<h4 align="left"> <i>Estos son mis lenguajes favoritos y que más uso</i></h4>
 <div align="left">
 
   <a href="https://www.java.com/en/">                         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg"            height="36" alt="Java"/> </a>
@@ -53,7 +53,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="left">I would like to learn or improve in these languages</h3>
-<h4 align="left">Me gustaria aprender o mejorar en estos lenguajes</h4>
+<h4 align="left"><i>Me gustaria aprender o mejorar en estos lenguajes</i></h4>
 <div align="left">
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/c_1.svg"            height="36" alt="C"/> </a>
@@ -70,7 +70,7 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <!-- <a href="https://www.youtube.com/">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/> </a> -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3 align="left">These are some of the tools where I program or create things</h3>
-<h4 align="left">Estas son algunas de las herramientas donde programo o hago cosas</h4>
+<h4 align="left"><i>Estas son algunas de las herramientas donde programo o hago cosas</i></h4>
 <div align="left">
 
   <a href="https://www.arduino.cc/">             <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"                         height="36" alt="Arduino"/> </a>
@@ -89,13 +89,18 @@ Soy un entusiasta de la programación y actualmente me encuentro explorando vari
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="left">Operative Systems</h3>
-<h4 align="left">Sistemas Operativos</h4>
+<h4 align="left"><i>Sistemas Operativos</i></h4>
 <div align="left">
 
  <a href="https://archlinux.org/">                    <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"    height="36" alt="ArchLinux"/> </a>
  <a href="https://www.raspberrypi.org/">              <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/raspberry.svg"      height="36" alt="jRaspberry"/> </a>
  <a href="https://www.microsoft.com/en-us/windows">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/windows10.svg"      height="36" alt="Windows10"/> </a>
  <a href="https://www.kali.org/">                     <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/kalilinux.svg"      height="36" alt="KaliLinux"/> </a>
-  
+
 </div>
 <h2 align="left"> </h2>
+
+<h3 align="left"> <i> Icon licensing and redistribution </i> </h3>
+<h4 align="left"> <b>The icons of programming languages and other stuff are designed by me, and their use is free, but you must specify or note the respective credits. </b></h4>
+<h4 align="left"> <i>Los iconos de lenguajes de programación y otros programas, estan diseñados por mi, y su uso es libre, pero debes especificar o anotar los respectivos creditos </i></h4>
+ 
