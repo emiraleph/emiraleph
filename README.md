@@ -1,10 +1,12 @@
 <h1 align="center"> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
 <h3 align="center">Socialmedia</h3>
-<span style="color: red;">Socialmedia</span>
-
 <h4 align="center"> <i> Redes sociales </i> </h4>
 <div align="center">
+
+<span style="color: black; text-align: center;">Test</span>
+
+
 
 <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="Youtube"/> </a>
 <a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="X | Twitter"/> </a>
