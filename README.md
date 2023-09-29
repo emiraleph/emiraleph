@@ -35,8 +35,6 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## <span></span>**These are my preferred languages and the ones I use the most**
-
 <p align="left"><strong>These are my preferred languages and the ones I use the most</strong></p>
 <p align="left"><i>Estos son mis lenguajes favoritos y que más uso</i></p>
 <div align="left">
@@ -54,9 +52,8 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align="left">I would like to learn or improve in these languages</h3>
-<h4 align="left"><i>Me gustaria aprender o mejorar en estos lenguajes</i></h4>
+<p align="left"><strong>I would like to learn or improve in these languages</strong></p>
+<p align="left"><i>Me gustaria aprender o mejorar en estos lenguajes</i></p>
 <div align="left">
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/c_1.svg"            height="36" alt="C"/> </a>
@@ -72,8 +69,8 @@
 
 <!-- <a href="https://www.youtube.com/">  <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg" height="36" alt="javascript logo"/> </a> -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h3 align="left">These are some of the tools where I program or create things</h3>
-<h4 align="left"><i>Estas son algunas de las herramientas donde programo o hago cosas</i></h4>
+<p align="left"><strong>These are some of the tools where I program or create things</strong></p>
+<p align="left"><i>Estas son algunas de las herramientas donde programo o hago cosas</i></p>
 <div align="left">
 
   <a href="https://www.arduino.cc/">             <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/arduino.svg"                         height="36" alt="Arduino"/> </a>
@@ -91,8 +88,8 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align="left">Operative Systems</h3>
-<h4 align="left"><i>Sistemas Operativos</i></h4>
+<p align="left"><strong>Operative Systems</strong></p>
+<p align="left"><i>Sistemas Operativos</i></p>
 <div align="left">
 
  <a href="https://archlinux.org/">                    <img src="https://github.com/emiraleph/emiraleph/blob/main/Operative_Systems_SVG/ArchLinux_2.svg"    height="36" alt="ArchLinux"/> </a>
@@ -104,6 +101,6 @@
 <h2 align="left"> </h2>
 
 <h3 align="left"> <i> Icon licensing and redistribution </i> </h3>
-<h4 align="left"> <b>The icons of programming languages and other stuff are designed by me, and their use is free, but you must specify or note the respective credits. </b></h4>
-<h4 align="left"> <i>Los iconos de lenguajes de programación y otros programas, estan diseñados por mi, y su uso es libre, pero debes especificar o anotar los respectivos creditos </i></h4>
+<p align="left"><strong><b>The icons of programming languages and other stuff are designed by me, and their use is free, but you must specify or note the respective credits. </b></strong></p>
+<p align="left"><i>Los iconos de lenguajes de programación y otros programas, estan diseñados por mi, y su uso es libre, pero debes especificar o anotar los respectivos creditos </i></p>
  
