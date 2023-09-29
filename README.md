@@ -1,23 +1,10 @@
 <h1 align="center"> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
-<h3 align="center">Socialmedia</h3>
-<h4 align="center"> <i> Redes sociales </i> </h4>
+
+<p align="center"><strong>Socialmedia</strong><i> ~ Redes sociales</i></p>
+
 <div align="center">
-
-<span style="color: black; text-align: center;font-size: 40px;"><i>Socialmedia</i></span>  
-<span style="color: black; text-align: center;font-size: 20px;">_Socialmedia_</span>  
-<span style="color: black; text-align: center;"><i>Redes sociales</i></span>
-
-
-<p style="font-size: 20px;">Texto con tamaño 20 píxeles</p>
-<p style="font-size: 16pt;">Texto con tamaño 16 puntos</p>
-
-
-<span style="color: black; text-align: center;">
-
-
-
-
+ 
 <a href="https://www.youtube.com/@emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/youtube.svg"   height="36" alt="Youtube"/> </a>
 <a href="https://twitter.com/emiraleph">        <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/twitter.svg"   height="36" alt="X | Twitter"/> </a>
 <a href="https://www.reddit.com/u/emiraleph">   <img src="https://github.com/emiraleph/emiraleph/blob/main/Social_Media_SVG/reddit.svg"    height="36" alt="Reddit"/> </a>
@@ -27,20 +14,20 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h4 align="left"> I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way. </h4>
+<p align="left"><strong>I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.</strong></p>
 
-<h4 align="left"> <i> Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino. </i> </h4>
+<p align="left"><i> Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.</i></p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h2 align="left"> </h2>
+## <span></span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiraleph&layout=donut&theme=dark" height="200" alt="stats graph"    />
   <img src="https://github-readme-stats.vercel.app/api?username=emiraleph&show_icons=true&theme=dark"         height="200" alt="languages graph"/>
 </div>
 
-<h2 align="left"> </h2>
+## <span></span>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -48,8 +35,8 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align="left">These are my preferred languages and the ones I use the most</h3>
-<h4 align="left"> <i>Estos son mis lenguajes favoritos y que más uso</i></h4>
+<p align="left"><strong>These are my preferred languages and the ones I use the most</strong></p>
+<p align="left"><i>Estos son mis lenguajes favoritos y que más uso</i></p>
 <div align="left">
 
   <a href="https://www.java.com/en/">                         <img src="https://github.com/emiraleph/emiraleph/blob/main/Languages_SVG/java.svg"            height="36" alt="Java"/> </a>
