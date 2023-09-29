@@ -4,7 +4,17 @@
 <h4 align="center"> <i> Redes sociales </i> </h4>
 <div align="center">
 
-<span style="color: black; text-align: center;">Test</span>
+<span style="color: black; text-align: center;font-size: 40px;"><i>Socialmedia</i></span>  
+<span style="color: black; text-align: center;font-size: 20px;">_Socialmedia_</span>  
+<span style="color: black; text-align: center;"><i>Redes sociales</i></span>
+
+
+<p style="font-size: 20px;">Texto con tamaño 20 píxeles</p>
+<p style="font-size: 16pt;">Texto con tamaño 16 puntos</p>
+
+
+<span style="color: black; text-align: center;">
+
 
 
 
