@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, Im Emir! (˶˃ᆺ˂˶) </h1>
 
-<h3 style="color: red; text-align: center;">Socialmedia</h3>
+<h3 align="center">Socialmedia</h3>
+<span style="color: red;">Socialmedia</span>
+
 <h4 align="center"> <i> Redes sociales </i> </h4>
 <div align="center">
 
