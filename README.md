@@ -14,9 +14,9 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<p align="left"><strong>I'm passionate about programming and I'm currently learning several languages. My goal is to keep progressing in this field and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.</strong></p>
+<p align="left"><strong>I'm a programming and cybersecurity enthusiast and am currently exploring different programming languages and methods of ethical hacking and offensive security. My goal is to keep progressing in these fields and expanding my skills. Here, I'll be showcasing a variety of projects I work on along the way.</strong></p>
 
-<p align="left"><i> Soy un entusiasta de la programación y actualmente me encuentro explorando varios lenguajes. Mi objetivo es continuar avanzando en este campo y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.</i></p>
+<p align="left"><i>Soy un entusiasta de la programación y ciberseguridad y actualmente me encuentro explorando varios lenguajes de programación y metodos de hacking ético y seguridad ofensiva. Mi objetivo es continuar avanzando en estos campos y expandiendo mis habilidades. Aquí compartiré una variedad de proyectos que desarrolle en el camino.</i></p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
