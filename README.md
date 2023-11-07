@@ -77,8 +77,6 @@
   <a href="https://git-scm.com/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/git.svg"                             height="36" alt="Git"/> </a>
   <a href="https://about.gitlab.com/">           <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/gitlab.svg"                          height="36" alt="Gitlab"/> </a>
   <a href="https://github.com/">                 <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/github.svg"                          height="36" alt="Github"/> </a>
-  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio.svg"                 height="36" alt="Visual Studio"/> </a>
-  <a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/ms_visualstudio_code.svg"            height="36" alt="Visual Studio Code"/> </a>
   <a href="https://www.jetbrains.com/idea/">     <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/intelliJ_IDEA.svg"                   height="36" alt="IntelliJ-IDEA"/> </a>
   <a href="https://www.vim.org/">                <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/vim.svg"                             height="36" alt="VIM"/> </a>
   <a href="https://www.virtualbox.org/">         <img src="https://github.com/emiraleph/emiraleph/blob/main/Tools_And_Programs_SVG/virtual_box.svg"                     height="36" alt="Oracle Virtual Box"/> </a>
